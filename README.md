@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/faizalsagar1" target="blank"><img src="https://img.shields.io/twitter/follow/faizalsagar1?logo=twitter&style=for-the-badge" alt="faizalsagar1" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Frontend development**
+- 🌱 I’m currently learning **Advance Frontend development** 
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
